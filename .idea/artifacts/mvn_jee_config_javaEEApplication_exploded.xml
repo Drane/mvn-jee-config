@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="mvn-jee-config:javaEEApplication exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/mvn_jee_config_javaEEApplication_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="mvn-jee-config/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
